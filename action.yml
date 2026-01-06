@@ -8,7 +8,7 @@ inputs:
     required: true
     default: 0
 outputs:
-  reult:
+  result:
     description: 'output of the sum of the 2 numbers'
 runs:
   using: "docker"
